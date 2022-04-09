@@ -19,4 +19,4 @@ This project is a very basic exercise in an pure HTML webpage. There are 3 food 
 This project is created with HTML5
 
 ## Setup
-To run this project, use the live preview, or download the files and open in your favorite web browser.
+To run this project, use the [Live Preview](https://stormingchris.github.io/odin-recipes/index.html), or download the files and open in your favorite web browser.
